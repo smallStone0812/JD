@@ -8,7 +8,7 @@
 // 如: 京东账号1的shareCode1@京东账号1的shareCode2&京东账号2的shareCode1@京东账号2的shareCode2
 let PetShareCodes = [
   //账号一的好友shareCode,不同好友的shareCode中间用@符号隔开
-  'MTE1NDAxNzcwMDAwMDAwMzg5NTg4NTk=',
+  // 'MTE1NDAxNzcwMDAwMDAwMzg5NTg4NTk=',
 ]
 // 判断github action里面是否有东东萌宠互助码
 if (process.env.PETSHARECODES) {
